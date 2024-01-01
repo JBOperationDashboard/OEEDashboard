@@ -1,0 +1,2 @@
+Date,Time,ProductCategory,Line,Model,SO,LotSize,Target,Actual,vsTarget,MachineStatus,
+01-Jan-24,2:03 PM,JTC,CNC1,J51924HG.S,176541,1200,25,28,0.12,Running,
