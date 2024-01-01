@@ -1,2 +1,2 @@
-Date,Time,ProductCategory,Line,Model,SO,LotSize,Target,Actual,vsTarget,MachineStatus,
-01-Jan-24,3:21 PM,JTC,Line11,JTC1290.ZFB,177055,1200,127,140,0.1,Running,
+Date;Time;ProductCategory;Line;Model;SO;LotSize;Target;Actual;vsTarget;MachineStatus;
+01-Jan-24;3:21 PM;JTC;Line11;JTC1290.ZFB;177055;1200;139;140;0.01;Running;
