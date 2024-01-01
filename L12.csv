@@ -1,2 +1,2 @@
 Date,Time,ProductCategory,Line,Model,SO,LotSize,Target,Actual,vsTarget,MachineStatus,
-01-Jan-24,3:39 PM,JTS,Line12,JTS7727,177039,600,242,180,-0.26,Running,
+01-Jan-24,3:40 PM,JTS,Line12,JTS7727,177039,600,245,185,-0.24,Running,
