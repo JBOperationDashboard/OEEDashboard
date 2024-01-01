@@ -1,2 +1,2 @@
-Date;Time;ProductCategory;Line;Model;SO;LotSize;Target;Actual;vsTarget;MachineStatus;
-01-Jan-24;2:45 PM;JAR;Line9;JAR1012;177003;784;784;784;0;Idle;
+Date,Time,ProductCategory,Line,Model,SO,LotSize,Target,Actual,vsTarget,MachineStatus,
+01-Jan-24,2:45 PM,JAR,Line9,JAR1012,177003,784,784,784,0,Idle,
