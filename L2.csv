@@ -1,2 +1,2 @@
-Date,Time,ProductCategory,Line,Model,SO,LotSize,Target,Actual,vsTarget,MachineStatus,
-01-Jan-24,3:30 PM,,Line2,,,0,0,0,0,Idle,
+Date;Time;ProductCategory;Line;Model;SO;LotSize;Target;Actual;vsTarget;MachineStatus;
+01-Jan-24;3:36 PM;;Line2;;;0;0;0;0;Idle;
