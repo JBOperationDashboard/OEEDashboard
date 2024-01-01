@@ -1,2 +1,2 @@
-Date,Time,ProductCategory,Line,Model,SO,LotSize,Target,Actual,vsTarget,MachineStatus,
-01-Jan-24,3:29 PM,JBJ/JTE,Line8,JBJ7668.S,177013,720,622,514,-0.17,Running,
+Date;Time;ProductCategory;Line;Model;SO;LotSize;Target;Actual;vsTarget;MachineStatus;
+01-Jan-24;3:35 PM;JBJ/JTE;Line8;JBJ7668.S;177013;720;664;570;-0.14;Running;
